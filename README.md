@@ -12,6 +12,11 @@ interpretations are embedded in the APK — no internet connection is used.
 - Size: ~0.72 MB
 - SHA-256: `B14F3F6A124A5BFF96F9F7728829071874EB5250AAF61EB2AF1EA946089F03B2`
 
+## Download
+
+- Release page: https://github.com/parsadegame/HafezFaal/releases/tag/v1.6
+- Direct APK: https://github.com/parsadegame/HafezFaal/releases/download/v1.6/HafezFaal-v1.6.apk
+
 ## Features
 
 - Starts with only the «فال بگیر» button and a short prompt; pressing it shows
